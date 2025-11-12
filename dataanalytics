@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What is Data Analytics?</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; line-height: 1.8; margin: 0; padding: 0;">
+
+  <div style="max-width: 900px; margin: 50px auto; background-color: #ffffff; padding: 40px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <h1 style="text-align: center; color: #0073e6;">What is Data Analytics?</h1>
+    
+    <p style="font-size: 18px; text-align: justify;">
+      Data Analytics refers to the process of examining raw data to uncover valuable insights, identify trends, and support decision-making within organizations. It involves various techniques such as statistical analysis, data mining, predictive modeling, and machine learning to transform data into actionable intelligence. Businesses today rely heavily on data analytics to understand customer behavior, improve operations, and gain a competitive edge.
+    </p>
+
+    <p style="font-size: 18px; text-align: justify;">
+      The field of Data Analytics is vast and evolving, encompassing both descriptive and predictive analytics to interpret past data and forecast future outcomes. Whether you're analyzing sales data, customer feedback, or social media metrics, data analytics helps convert complex datasets into meaningful narratives. 
+      If you’re interested in mastering these skills, consider pursuing a 
+      <a href="https://www.h2kinfosys.com/courses/data-analytics-online-training-program/" 
+         style="color: #0073e6; font-weight: bold; text-decoration: none;">Data Analytics certification</a>
+      to build your expertise and enhance your career prospects.
+    </p>
+
+    <p style="font-size: 18px; text-align: justify;">
+      With the growing importance of data-driven strategies across industries, professionals equipped with analytical skills are in high demand. Learning data analytics not only improves your ability to interpret data but also positions you as a valuable asset in any organization aiming to make smarter, evidence-based decisions.
+    </p>
+
+  </div>
+
+</body>
+</html>
